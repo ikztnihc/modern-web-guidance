@@ -1,15 +1,15 @@
 {
-  "name": "googlechrome",
-  "description": "Modern web development guidance for AI coding agents.",
+  "name": "house-skills",
+  "description": "House fork of Modern Web Guidance with a shadcn/ui-first rule.",
   "owner": {
-    "name": "Google Chrome"
+    "name": "ikztnihc"
   },
   "plugins": [
     {
       "name": "modern-web-guidance",
       "source": "./",
-      "description": "Keep your coding agent up to date with the latest web best practices",
-      "version": "1.0.0"
+      "description": "Modern web platform guidance, local files, shadcn/ui always wins",
+      "version": "1.0.0-house.1"
     }
   ]
 }

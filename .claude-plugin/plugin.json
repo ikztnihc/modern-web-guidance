@@ -1,7 +1,7 @@
 {
   "name": "modern-web-guidance",
-  "description": "Keep your coding agent up to date with the latest web best practices",
-  "version": "1.0.0",
+  "description": "Modern web platform guidance, local files, shadcn/ui always wins",
+  "version": "1.0.0-house.1",
   "author": {
     "name": "Google Chrome"
   }
